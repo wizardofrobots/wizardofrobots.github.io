@@ -30,6 +30,7 @@ This work represents a significant step forward in computational structural biol
 #### Implications
 
 Our algorithm opens new avenues for:
+
 - Understanding protein evolution
 - Designing proteins with desired structural properties
 - Studying disease-related protein misfolding

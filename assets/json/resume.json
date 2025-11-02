@@ -63,39 +63,25 @@
       "name": "Biophysics",
       "level": "Advanced",
       "icon": "fa-solid fa-dna",
-      "keywords": [
-        "Protein Metamorphosis",
-        "Structural Biology",
-        "Molecular Dynamics"
-      ]
+      "keywords": ["Protein Metamorphosis", "Structural Biology", "Molecular Dynamics"]
     },
     {
       "name": "Bioinformatics",
       "level": "Advanced",
       "icon": "fa-solid fa-laptop-code",
-      "keywords": [
-        "Algorithm Development",
-        "Proteome Analysis",
-        "Computational Biology"
-      ]
+      "keywords": ["Algorithm Development", "Proteome Analysis", "Computational Biology"]
     },
     {
       "name": "Synthetic Biology",
       "level": "Intermediate",
       "icon": "fa-solid fa-flask",
-      "keywords": [
-        "Genetic Engineering",
-        "Bioengineering"
-      ]
+      "keywords": ["Genetic Engineering", "Bioengineering"]
     },
     {
       "name": "NMR Spectroscopy",
       "level": "Intermediate",
       "icon": "fa-solid fa-microscope",
-      "keywords": [
-        "Protein Structure Determination",
-        "Spectroscopic Analysis"
-      ]
+      "keywords": ["Protein Structure Determination", "Spectroscopic Analysis"]
     }
   ],
   "languages": [
@@ -109,28 +95,17 @@
     {
       "name": "Biophysics",
       "icon": "fa-solid fa-atom",
-      "keywords": [
-        "Protein Metamorphosis",
-        "Structural Biology",
-        "Molecular Biophysics"
-      ]
+      "keywords": ["Protein Metamorphosis", "Structural Biology", "Molecular Biophysics"]
     },
     {
       "name": "Bioinformatics",
       "icon": "fa-solid fa-computer",
-      "keywords": [
-        "Computational Methods",
-        "Proteome Analysis",
-        "Algorithm Development"
-      ]
+      "keywords": ["Computational Methods", "Proteome Analysis", "Algorithm Development"]
     },
     {
       "name": "Synthetic Biology",
       "icon": "fa-solid fa-vial",
-      "keywords": [
-        "Genetic Engineering",
-        "Biological Systems Design"
-      ]
+      "keywords": ["Genetic Engineering", "Biological Systems Design"]
     }
   ],
   "references": [],
